@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
