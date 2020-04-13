@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "c7057f5d9f2fe0504c52585cbf769cc3"
+build_time: [1586814736, 925297000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1586814310, 347787600]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1586814310, 348115229]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Command/Command.swift": [1586814310, 348460611]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1586814310, 348679036]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1586814310, 349015250]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1586814310, 349245911]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1586814310, 349535844]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1586814310, 349741760]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1586814310, 350070577]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1586814310, 350476044]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1586814310, 350705387]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1586814310, 350978937]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1586814310, 351225802]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1586814310, 351536232]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1586814310, 351726436]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1586814310, 351968411]

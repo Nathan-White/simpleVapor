@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0fcbe6627bd645f3c7e77e5e7a16ed78"
+build_time: [1586814702, 97526000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1586814306, 580109526]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/AsyncError.swift": [1586814306, 580378139]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1586814306, 580750788]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Deprecated.swift": [1586814306, 580940459]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Exports.swift": [1586814306, 581106600]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1586814306, 581274771]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1586814306, 581473999]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Global.swift": [1586814306, 581674790]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Map.swift": [1586814306, 581880709]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1586814306, 582070382]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1586814306, 582267035]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Future+Void.swift": [1586814306, 582444928]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/FutureType.swift": [1586814306, 582730905]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1586814306, 583046583]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Async/Worker.swift": [1586814306, 583342394]

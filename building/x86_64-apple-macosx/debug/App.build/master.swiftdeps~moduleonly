@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "dda2d1645e703d0dc66ce66aacedd90c"
+build_time: [1586814745, 454239000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/Sources/App/boot.swift": [1586813975, 719246813]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/Sources/App/configure.swift": [1586813975, 719528697]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/Sources/App/routes.swift": [1586813975, 719787860]

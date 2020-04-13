@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "245cb62184e12d2c0e88cdeedf1d6a42"
+build_time: [1586814699, 288169000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/BitsError.swift": [1586814306, 583579684]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1586814306, 584026420]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1586814306, 584238396]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1586814306, 584430467]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1586814306, 584598465]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1586814306, 584768115]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1586814306, 585036549]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1586814306, 585280714]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Bytes.swift": [1586814306, 585680023]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1586814306, 585880270]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1586814306, 586136811]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1586814306, 586460363]

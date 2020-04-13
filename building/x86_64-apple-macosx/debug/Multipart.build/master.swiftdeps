@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "f0afac07d1fac8968ab541c2e4ecb867"
+build_time: [1586814717, 981408000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1586814312, 495297595]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1586814312, 495650500]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1586814312, 495954748]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1586814312, 496190261]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1586814312, 496459809]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1586814312, 496655039]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1586814312, 496856562]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1586814312, 497084002]

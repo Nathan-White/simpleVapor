@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/Sources/Run/main.swift": {
+    "dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "b8675236a426809282c110ec85cb6e66"
+build_time: [1586814703, 205535000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1586814312, 170708052]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1586814312, 171158482]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1586814312, 171429302]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1586814312, 171987142]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1586814312, 172289466]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1586814312, 172509469]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1586814312, 172808543]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1586814312, 173291849]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1586814312, 173889227]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1586814312, 174222971]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1586814312, 174443627]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1586814312, 174705929]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1586814312, 174931407]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1586814312, 175363234]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1586814312, 175639454]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1586814312, 176121677]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1586814312, 176512157]

@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d3bbca98c5c84b1a43e84f323b8fb1de"
+build_time: [1586814717, 986708000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1586814309, 282389753]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1586814309, 282754479]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1586814309, 283105517]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1586814309, 283410931]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1586814309, 283708503]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1586814309, 283979046]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/Exports.swift": [1586814309, 284251891]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1586814309, 284444638]

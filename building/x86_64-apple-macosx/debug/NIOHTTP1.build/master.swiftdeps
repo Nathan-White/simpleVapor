@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "69f889fabf1cceb108c5ebc8f18a0cf1"
+build_time: [1586814699, 270161000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1586814308, 872417777]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1586814308, 873578513]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1586814308, 874311578]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1586814308, 874908984]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1586814308, 875489514]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1586814308, 876276959]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1586814308, 876881528]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1586814308, 877908652]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1586814308, 878365092]

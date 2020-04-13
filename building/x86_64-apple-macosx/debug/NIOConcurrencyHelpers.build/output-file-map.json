@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

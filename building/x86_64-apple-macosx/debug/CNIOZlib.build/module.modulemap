@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella header "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+    export *
+}

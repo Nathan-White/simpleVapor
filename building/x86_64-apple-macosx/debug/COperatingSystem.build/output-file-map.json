@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

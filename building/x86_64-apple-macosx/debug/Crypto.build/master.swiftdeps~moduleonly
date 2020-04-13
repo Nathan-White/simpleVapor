@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "87fc99e61a6282378d6c3009a8771e4b"
+build_time: [1586814730, 681266000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/BCrypt/BCryptDigest.swift": [1586814309, 983346682]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1586814309, 983686888]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1586814309, 983945283]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/Cipher.swift": [1586814309, 984260359]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1586814309, 984567575]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1586814309, 984808241]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1586814309, 985107403]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Digest/Digest.swift": [1586814309, 985488865]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Digest/DigestAlgorithm.swift": [1586814309, 985798434]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/MAC/HMAC.swift": [1586814309, 986191669]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/MAC/OTP.swift": [1586814309, 986429472]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSA.swift": [1586814309, 986888134]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSAKey.swift": [1586814309, 987177677]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSAPadding.swift": [1586814309, 987471696]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Random/CryptoRandom.swift": [1586814309, 987819464]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Base32.swift": [1586814309, 988146937]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/CryptoError.swift": [1586814309, 988385198]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Deprecated.swift": [1586814309, 988737617]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Exports.swift": [1586814309, 988948209]

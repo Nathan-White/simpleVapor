@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "161c5a2fc811cdfb7e6423cb4687468d"
+build_time: [1586814710, 509509000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1586814308, 885208714]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1586814308, 885597198]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1586814308, 886064445]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1586814308, 886570424]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1586814308, 887096039]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1586814308, 887666970]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1586814308, 888058775]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1586814308, 888478837]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1586814308, 888789680]

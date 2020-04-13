@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella header "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+    export *
+}

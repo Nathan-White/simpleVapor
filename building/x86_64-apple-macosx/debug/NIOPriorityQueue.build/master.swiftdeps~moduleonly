@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "6a5e0d00ca517b93a3f66ca54b293986"
+build_time: [1586814666, 23793000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [1586814308, 880819624]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [1586814308, 881024398]

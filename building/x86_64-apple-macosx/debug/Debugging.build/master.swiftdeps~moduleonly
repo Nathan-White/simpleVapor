@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "117ad539bf4bc263d05b2a36ffbdd503"
+build_time: [1586814667, 814189000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1586814306, 595007089]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1586814306, 595219833]
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1586814306, 595476452]

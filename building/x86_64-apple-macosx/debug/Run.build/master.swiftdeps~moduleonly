@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "5b424266abbf2609b12d65cba4d332b4"
+build_time: [1586814753, 11936000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/Sources/Run/main.swift": [1586813975, 720095858]

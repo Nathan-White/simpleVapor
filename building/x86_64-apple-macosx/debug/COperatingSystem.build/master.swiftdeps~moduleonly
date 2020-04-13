@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "7f92b6e5320efd59bc4ed69231a0f0b2"
+build_time: [1586814668, 302201000]
+inputs:
+  "/Users/nathanwhite/Desktop/vaporserver/simpleVapor/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1586814306, 586743479]
